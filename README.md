@@ -22,6 +22,7 @@ Users can use, copy, modify, merge, publish, distribute, and sublicense this sof
 - Seasonally-Adjusted Purchase-Only Index % Change Over Previous 4 Quarters
 
 Link to data: https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx?fbclid=IwAR1GrWS0sQwNIcVooRnQf6PqKBHW4HAzX7YXblIP2oEwoVHONfK-QgyGiZk
+
 Used "U.S. Summary" .xls file under "Quarterly Data" 
 
 ### Revelant Notes
