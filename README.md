@@ -23,21 +23,19 @@ Users can use, copy, modify, merge, publish, distribute, and sublicense this sof
 
 Link to data: https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx?fbclid=IwAR1GrWS0sQwNIcVooRnQf6PqKBHW4HAzX7YXblIP2oEwoVHONfK-QgyGiZk
 
-Used "U.S. Summary" .xls file under "Quarterly Data" 
+(Used "U.S. Summary" .xls file under "Quarterly Data") 
 
 ### Revelant Notes
-- The data set includes 34,000 consumer reviews of Amazon products such as TVs, computers, speakers, headphones, and more. This data set is a subset of a larger data set acquired from Datafiniti, which is a database that obtains product data from websites. Each individual row represents a single amazon review and the columns represent a different attribute regarding that specific review like date, helpfulness score, recommendation, reviewer username, etc. We retrieved this data on KAGGLE (linked above) in the form of a CSV and will be primarily focused on review text and review rating.
-- The whole data set includes three files. We will only use the file named "1429_1.csv" throughout this project
-- We removed all "reviews.text" empty/null entries
+- Obtained from the Federal Housing Finance Agency
+- The data set regards quarterly data regarding House Price Index (HPI) values in the US from 1991 to 2022. 
+- Includes 128 rows, with every four rows representing a year from 1991 to 2022. For each year, the data is split into four quarters from one to four.
+
 
 ## FIGURES
 Graph | Summary
 ------------- | -------------
 ![alt text](https://github.com/PeterShin23/dsp1/blob/main/FIGURES/top20_all.png?raw=true) | Many of the top 20 words have an subjectively positive connotation, including “great”, “good”, “bought”, “like”, “love” and “well”. There seems to be little to no words with a subjectively negative connotation. While there are a majority of positive connotation words, we cannot conclude that these words necessarily are used in a context that yields or prompt a higher rating review
-![alt text](https://github.com/PeterShin23/dsp1/blob/main/FIGURES/top10_rating5.png?raw=true) | Many of the top 10 words in reviews with a rating of 1 have mostly subjectively neutral descriptive words other than “return” which is subjectively negative
-![alt text](https://github.com/PeterShin23/dsp1/blob/main/FIGURES/top10_rating1.png?raw=true) | Compared to the top 10 words of all reviews, reviews with a rating of 5 have more top 10 words that explicitly a positive connotation such as “love”, “great”, “east”, “get”, and “bought”
-![alt text](https://github.com/PeterShin23/dsp1/blob/main/FIGURES/rating_distribution.png?raw=true) | The distribution of ratings across all reviews shows very few reviews with a rating of 1 to 3, with most reviews being a 5 star rating. This distribution correlates with our findings of the top 20 words in reviews as most descriptive words we observed are positive
-![alt text](https://github.com/PeterShin23/dsp1/blob/main/FIGURES/rating_diff.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
+
 
 
 
