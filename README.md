@@ -34,8 +34,9 @@ Link to data: https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-D
 ## FIGURES
 Graph | Summary
 ------------- | -------------
-![alt text](https://github.com/lucywang-uva/dsp3/blob/main/FIGURES/not_seasonally_adjusted_HPI.png?raw=true) | a
-![alt text](https://github.com/lucywang-uva/dsp3/blob/main/FIGURES/seasonally_adjusted_HPI.png?raw=true) | a
+![alt text](https://github.com/lucywang-uva/dsp3/blob/main/FIGURES/not_seasonally_adjusted_HPI.png?raw=true) | There is a steep dip in HPI at the end of 2007 and the beginning of 2008, as explained by the 2008 financial and housing crisis. Prices began to increase again around 2012, with a steeper slope at the beginning of the COVID pandemic as people were under lockdown and there was a higher demand for housing. This steep slope only began to flatten in the second quarter of 2022.
+
+![alt text](https://github.com/lucywang-uva/dsp3/blob/main/FIGURES/seasonally_adjusted_HPI.png?raw=true) | The seasonally-adjusted HPI trends over time follow the same general pattern as the not seasonally-adjusted trend, with the seasonally adjusted graph being slightly smoother most likely due to micro-corrections after considering market fluctuations based on seasonality. 
 
 
 
