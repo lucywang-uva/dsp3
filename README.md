@@ -43,6 +43,13 @@ Graph | Summary
 
 
 ## REFERENCES
-[1]	“Consumer reviews of Amazon Products,” Kaggle, 20-May-2019. [Online]. Available: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products?Fbclid=IwAR0yIq8hjHkHZTXoqGVG2xiIQunCDA0JI1ChlZ5XhSZulLyZReaQnheRv-4&select=1429_1.csv. [Accessed: 14-Feb-2023]. 
+[1]   Bernstein, J., Tedeschi, E., & Robinson, S. (2021, November 30). Housing prices and inflation. The White House. Retrieved April 6, 2023, from                                                                       https://www.whitehouse.gov/cea/written-materials/2021/09/09/housing-prices-and-inflation/ 
 
-[2]	“Amazon ecommerce trends for 2023,” Insider Intelligence, 06-Jan-2023. [Online]. Available: https://www.insiderintelligence.com/insights/amazon-ecommerce-trends/. [Accessed: 08-Feb-2023]. 
+[2]   Santarelli, M. (2023, March 30). Housing market predictions 2023: Will home		prices drop in 2023? Norada Real Estate Investments. Retrieved April 6, 2023, from https://www.noradarealestate.com/blog/housing-prices/ 
+
+[3]   Pierre, S. (2022, October 13). A guide to time series forecasting in Python. Built		In. Retrieved April 10, 2023, from									https://builtin.com/data-science/time-series-forecasting-python 
+
+[4]   House Price Index Datasets. House Price Index Datasets | Federal Housing Finance Agency. (n.d.). Retrieved April 10, 2023, from						https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx?fbclid=IwAR1GrWS0sQwNIcVooRnQf6PqKBHW4HAzX7YXblIP2oEwoVHONfK-QgyGiZk 
+
+[5]   Liberto, D. (2023, March 28). Understanding the House price index (HPI) and		how it is used. Investopedia. Retrieved April 10, 2023, from https://www.investopedia.com/terms/h/house-price-index-hpi.asp 
+
